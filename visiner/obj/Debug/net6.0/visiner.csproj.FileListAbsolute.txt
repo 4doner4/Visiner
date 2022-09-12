@@ -1,0 +1,15 @@
+D:\PROJECT\visual studio\visiner\visiner\bin\Debug\net6.0\visiner.exe
+D:\PROJECT\visual studio\visiner\visiner\bin\Debug\net6.0\visiner.deps.json
+D:\PROJECT\visual studio\visiner\visiner\bin\Debug\net6.0\visiner.runtimeconfig.json
+D:\PROJECT\visual studio\visiner\visiner\bin\Debug\net6.0\visiner.dll
+D:\PROJECT\visual studio\visiner\visiner\bin\Debug\net6.0\visiner.pdb
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\visiner.csproj.AssemblyReference.cache
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\visiner.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\visiner.AssemblyInfoInputs.cache
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\visiner.AssemblyInfo.cs
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\visiner.csproj.CoreCompileInputs.cache
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\visiner.dll
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\refint\visiner.dll
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\visiner.pdb
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\visiner.genruntimeconfig.cache
+D:\PROJECT\visual studio\visiner\visiner\obj\Debug\net6.0\ref\visiner.dll
